@@ -1,9 +1,10 @@
 package main
 
 import (
-	"LinkParse/links"
 	"fmt"
 	"strings"
+
+	"github.com/fancurson/links/links"
 )
 
 var exampleHTML = `
